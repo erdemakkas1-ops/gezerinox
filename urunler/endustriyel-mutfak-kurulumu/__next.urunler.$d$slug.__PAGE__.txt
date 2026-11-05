@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:"/gezerinox/_next/static/chunks/43eq798uoxqy4.js"
+3:I[2971,["$2"],"Header"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/gezerinox/_next/static/chunks/1qvay2dlusjjy.js"
+7:I[22016,["$2","$6"],""]
+15:"ViewportBoundary"
+16:I[97367,["$2"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$2"],"$17"]
+19:"$Sreact.suspense"
+:HL["/gezerinox/_next/static/chunks/0--etiez1ndr4.css","style"]
+9:X
+c:X
+c:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","section",null,{"className":"product-top film","children":[["$","div",null,{"children":[["$","h1",null,{"children":"Anahtar teslim mutfak"}],["$","p",null,{"children":"Tek parça değil, mutfağın tamamı. Yerinde keşif ve projelendirmeyle başlar, kurulumla biter."}]]}],["$","div",null,{"className":"product-drawing","children":["$","svg",null,{"className":"part-drawing","viewBox":"0 0 960 200","aria-hidden":"true","focusable":"false","children":[["$","path",null,{"d":"M8 74h944v12H8zM8 86v106M952 86v106M260 86v106M520 86v106M760 86v106"}],["$","path",null,{"d":"M60 8h200l40 36H20zM60 74V44M240 74V44M300 112h180v60H300zM36 112h196M36 146h196"}],["$","path",null,{"d":"M560 74V30h160v44M790 104h134v66H790zM585 112a20 20 0 1 0 .1 0M680 112a20 20 0 1 0 .1 0"}]]}]}]]}],"$L10","$L11"],["$L12"],"$L13"]}],"p":"$@14","v":null,"s":"$9"}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"endustriyel-mutfak-kurulumu","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@e","v":"$c","s":"$9"},"c":"$Qf"}]]
+a:[["children",{"s":"urunler","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/gezerinox/_next/static/chunks/0--etiez1ndr4.css","precedence":"next"}],["$","script","script-0",{"src":"/gezerinox/_next/static/chunks/43eq798uoxqy4.js","async":true}]],["$","html",null,{"lang":"tr","className":"lHTu9a_variable t70ycW_variable","style":{"--tile-steel":"url(\"/gezerinox/materials/steel.webp\")","--tile-film-back":"url(\"/gezerinox/materials/film-back.webp\")"},"children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#icerik","children":"İçeriğe geç"}],["$","$L3",null,{}],["$","main",null,{"id":"icerik","children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","section",null,{"className":"band band-page steel","children":[["$","div",null,{"className":"band-head","children":[["$","h1",null,{"children":"Bu parça levhada yok"}],["$","p",null,{"children":"Aradığınız sayfa bulunamadı."}]]}],["$","$L7",null,{"className":"link-ink","href":"/urunler","children":"Ürünlere dönün"}]]}],[]]}]}],["$","footer",null,{"className":"foot","children":[["$","div",null,{"className":"foot-info","children":[["$","div",null,{"children":[["$","p",null,{"className":"wordmark","children":"GEZER INOX"}],["$","p",null,{"className":"foot-about","children":["Detayda Kalite, Üretimde Güç",". Endüstriyel mutfak ve soğutma ekipmanları, ölçünüze göre."]}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Ürünler"}],[["$","$L7","paslanmaz-tezgahlar",{"href":"/urunler/paslanmaz-tezgahlar","children":"Paslanmaz tezgahlar"}],["$","$L7","mutfak-dolaplari",{"href":"/urunler/mutfak-dolaplari","children":"Inox dolaplar"}],["$","$L7","soguk-oda-sogutma",{"href":"/urunler/soguk-oda-sogutma","children":"Soğuk oda ve soğutma"}],["$","$L7","sogutmali-vitrinler",{"href":"/urunler/sogutmali-vitrinler","children":"Soğuk vitrin ve teşhir"}]]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Site"}],[["$","$L7","/urunler",{"href":"/urunler","children":"Ürünler"}],["$","$L7","/imalat",{"href":"/imalat","children":"İmalat"}],["$","$L7","/iletisim",{"href":"/iletisim","children":"İletişim"}]],["$","$L7",null,{"href":"/teklif","children":"Teklif al"}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Atölye"}],["$","p",null,{"children":"Öztoprak Sanayi Sitesi, Fazılpaşa Cad., Maltepe Mah., Zeytinburnu / İstanbul"}],["$","a",null,{"href":"tel:+905325135262","children":"0532 513 52 62"}],["$","a",null,{"href":"mailto:gezerinox@gmail.com","children":"gezerinox@gmail.com"}],["$","a",null,{"href":"https://www.instagram.com/gezerinox/","target":"_blank","rel":"noopener","children":"Instagram"}]]}]]}],["$","p",null,{"className":"foot-legal","children":["© 2026 Gezer Inox. ","İletişim bilgileri firma onayı bekliyor."]}]]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Gezer Inox\",\"description\":\"Zeytinburnu'nda ölçüye özel paslanmaz imalat: endüstriyel mutfak, soğutma, teşhir dolapları, kasa ve servis bankoları. Yerinde ölçü, özel üretim, yerinde kurulum.\",\"email\":\"gezerinox@gmail.com\",\"url\":\"https://erdemakkas1-ops.github.io/gezerinox\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Zeytinburnu\",\"addressRegion\":\"İstanbul\",\"addressCountry\":\"TR\"}}"}}]]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1f5bd8"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Anahtar teslim mutfak | Gezer Inox"}],["$","meta","1",{"name":"description","content":"Projelendirme ve yerinde keşifle komple kurulum. Tek parça değil, mutfağın tamamı. Yerinde keşif ve projelendirmeyle başlar, kurulumla biter."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Anahtar teslim mutfak | Gezer Inox"}],["$","meta","4",{"property":"og:description","content":"Projelendirme ve yerinde keşifle komple kurulum. Tek parça değil, mutfağın tamamı. Yerinde keşif ve projelendirmeyle başlar, kurulumla biter."}],["$","meta","5",{"property":"og:site_name","content":"Gezer Inox"}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]}],null]}],"$L21"]}],"p":"$@22","v":null,"s":"$9"}},"a":"$@23","u":"$@24","b":"5lAea6g09fdt4Kb6cxIDj"}
+25:I[97784,["$2","$6"],"QuickQuote"]
+26:I[97367,["$2"],"OutletBoundary"]
+28:I[27201,["$2"],"IconMark"]
+10:["$","section",null,{"className":"band steel product-body","children":[["$","div",null,{"className":"product-facts","children":[["$","h2",null,{"children":"Kimler için"}],["$","p",null,{"children":"Yeni açılan veya yenilenen restoran, otel ve kafeler."}],["$","h2",null,{"children":"Teklif için gerekenler"}],["$","ul",null,{"children":[["$","li","Mekânın krokisi veya ölçüleri",{"children":"Mekânın krokisi veya ölçüleri"}],["$","li","Menü ve günlük servis yoğunluğu",{"children":"Menü ve günlük servis yoğunluğu"}],["$","li","Mevcut tesisat bilgisi",{"children":"Mevcut tesisat bilgisi"}]]}]]}],["$","$L25",null,{"productSlug":"endustriyel-mutfak-kurulumu","title":"Bu parça için teklif alın"}]]}]
+11:["$","section",null,{"className":"band steel product-more","children":[["$","figure",null,{"className":"plate film","children":["$","figcaption",null,{"children":["Anahtar teslim mutfak uygulaması",": fotoğraf bekleniyor"]}]}],["$","$L7",null,{"className":"next-part","href":"/urunler/paslanmaz-tezgahlar","children":["Sonraki: ","Paslanmaz tezgahlar"]}]]}]
+12:["$","script","script-0",{"src":"/gezerinox/_next/static/chunks/1qvay2dlusjjy.js","async":true}]
+13:["$","$L26",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
+1a:["$","meta","6",{"property":"og:locale","content":"tr_TR"}]
+1b:["$","meta","7",{"property":"og:type","content":"website"}]
+1c:["$","meta","8",{"name":"twitter:card","content":"summary"}]
+1d:["$","meta","9",{"name":"twitter:title","content":"Anahtar teslim mutfak | Gezer Inox"}]
+1e:["$","meta","10",{"name":"twitter:description","content":"Projelendirme ve yerinde keşifle komple kurulum. Tek parça değil, mutfağın tamamı. Yerinde keşif ve projelendirmeyle başlar, kurulumla biter."}]
+1f:["$","link","11",{"rel":"icon","href":"/gezerinox/icon.svg?icon.2y_v6kr3v5id3.svg","sizes":"any","type":"image/svg+xml"}]
+20:["$","$L28","12",{}]
+21:["$","meta",null,{"name":"next-size-adjust","content":""}]
+9:300
+27:null
+24:true
+9:C
+23:0
+e:"$undefined"
+b:"$undefined"
+8:"$undefined"
+22:"$undefined"
+14:"$undefined"
