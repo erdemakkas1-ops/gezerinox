@@ -1,4 +1,4 @@
-:HL["/gezerinox/_next/static/chunks/0x87_grl9h91z.css","style"]
+:HL["/gezerinox/_next/static/chunks/3g3455tc79w7c.css","style"]
 :HL["/gezerinox/_next/static/media/1b8f3cd908e60d11-s.p.18k6ab96ew9tl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/gezerinox/_next/static/media/651df538cfcab999-s.p.3dhbch4o6h0a_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/gezerinox/_next/static/media/96006546e50e36ac-s.p.1sax8x6sf-ymm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"kebap-cigkofte-tezgahlari","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"urunler","h":131168,"c":"$Q2"}]]
-0:{"b":"LXJyUbMe60dJNZkE1W5uP","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"g3UKMH9galFkagkk_1XCl","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
