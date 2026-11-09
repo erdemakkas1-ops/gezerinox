@@ -5,4 +5,4 @@
 :HL["/gezerinox/_next/static/media/c3913cede75b2e08-s.p.3s8yog2ik4-yl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"teklif","h":96,"c":"$Q2"}]]
-0:{"b":"IapZ1LH6h_BcPUKmmN4SC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"LRliKjqyGbqRJvrIq3HX9","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
