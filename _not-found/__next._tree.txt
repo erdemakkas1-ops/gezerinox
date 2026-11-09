@@ -1,4 +1,4 @@
-:HL["/gezerinox/_next/static/chunks/0a0bi2h-ov4be.css","style"]
+:HL["/gezerinox/_next/static/chunks/0yn52js2xx010.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"LRliKjqyGbqRJvrIq3HX9","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"jK3ieBE_YYCmyN5bODSg_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
